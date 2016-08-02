@@ -1,4 +1,3 @@
-layout_spectrum: 0.19984726049005985
 typography_spectrum: 0.28496552631258965
 color:
   brandStrength: 0.8456677873618901
@@ -11,8 +10,10 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-name: Modutech
+layout_spectrum: 0.19984726049005985
 author:
   name: Henrik Eriksen
   email: henrik@modutech.no
   url: www.modutech.no
+name: Modutech
+title: MODUTECH
