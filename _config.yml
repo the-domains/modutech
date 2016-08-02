@@ -12,3 +12,7 @@ color:
     - '#5C6B73'
     - '#253237'
 name: Modutech
+author:
+  name: Henrik Eriksen
+  email: henrik@modutech.no
+  url: www.modutech.no
